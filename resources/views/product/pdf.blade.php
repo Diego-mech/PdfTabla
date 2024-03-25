@@ -79,7 +79,10 @@ $<!doctype html>
           font-size: 12px;
           width: 100px;
         }
-
+        .datostable td.resultado{
+          text-align: center;
+          font-size: 8.1px;
+        }
         table, th, td{
         font-family: Arial, sans-serif;
         border-collapse: collapse;
@@ -226,164 +229,164 @@ $<!doctype html>
               </tr>
               <tr>
                 <td>DQO (Demanda Quimica de Oxigeno)</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado">Hola :D</td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>DBO (Demenda Bioquimica de Oxigeno)</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>SST (Solidos Suspendidos Totales)</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>GYA (Grasas y Aceites)</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>TEMPERATURA</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>pH</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>FENOLES</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>SAAM (Sustancias Activas al Azul de Metileno)</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>As (Arsénico)</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>Cd (Cadmio)</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>Cu (Cobre)</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>Cr+6 (Cromo Hexavalente)</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>Hg (Mercurio)</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>Pb (Plomo)</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>Ni (Niquel)</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>Al (Aluminio)</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>CN (Cianuro)</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>MATERIA FLOTANTE</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>Sse (Sólidos Sedimentables)</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>Cr (Cromo Total)</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>Zn (Zinc Total)</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>NTK (Nitrogeno Total Kjeldahl)</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
               <tr>
                 <td>ST (Solidos Totales)</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
+                <td class="resultado"></td>
               </tr>
             </table >
             <p class="nota">
