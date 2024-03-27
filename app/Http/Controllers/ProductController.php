@@ -111,11 +111,11 @@ class ProductController extends Controller
         
         $product=Product::all();
 
-        $pdf = Pdf::loadView('product.pdf', compact('product'))
-                   ->setPaper('letter', 'portrait');
+        //$pdf = Pdf::loadView('product.pdf', compact('product'))
+          //         ->setPaper('letter', 'portrait');
         
-        //$pdf = Pdf::loadView('product.pdf2', compact('product'))
-          //          ->setPaper('letter', 'portrait');
+        $pdf = Pdf::loadView('product.pdf2', compact('product'))
+                    ->setPaper('letter', 'portrait');
 
 
         return $pdf->stream();
